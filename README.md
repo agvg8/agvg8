@@ -11,9 +11,9 @@
 </p>
 
 ### 🔭 Czym się zajmuję
-- 🛠️ Buduję pipeline'y danych jako IP Data Engineer w Nokii
+- 🛠️ Automatyzuję dokumentację jako IP Data Engineer w Nokii
 - 🎓 Magisterka z Informatyki Stosowanej (specjalizacja AI), Politechnika Bydgoska
-- 📈 Po godzinach: ML na danych finansowych, narzędzia do analizy rynku nieruchomości
+- 📈 Po godzinach: bawię się z AI, tworzę aplikację która wspomoże planowanie budowy i remontów
 
 ### 🧰 Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -27,13 +27,13 @@
 
 ### 📊 Statystyki
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TWOJ_LOGIN&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_LOGIN&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=agvg8&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agvg8&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TWOJ_LOGIN&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=agvg8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TWOJ_LOGIN/TWOJ_LOGIN/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/agvg8/agvg8/output/github-snake-dark.svg" />
 </p>
