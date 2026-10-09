@@ -13,7 +13,7 @@
 ### 🔭 Czym się zajmuję
 - 🛠️ Automatyzuję dokumentację jako IP Data Engineer w Nokii
 - 🎓 Magisterka z Informatyki Stosowanej (specjalizacja AI), Politechnika Bydgoska
-- 📈 Po godzinach: bawię się z AI, tworzę aplikację która wspomoże planowanie budowy i remontów
+- 📈 Po godzinach: bawię się AI, tworzę aplikację która wspomoże planowanie budowy i remontów
 
 ### 🧰 Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
